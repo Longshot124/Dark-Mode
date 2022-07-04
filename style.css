@@ -1,0 +1,16 @@
+#mode{
+    padding: 10px;
+    font-size: 16px;
+    background-color: grey;
+    border-radius: 100%;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: 1s;
+}
+
+body{
+    transition: .5s;
+}
+
